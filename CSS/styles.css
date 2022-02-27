@@ -1,0 +1,115 @@
+
+.TODO{width:20rem;}
+.FIERRO{width: 25rem;}
+.TOP-LOGO{width:11rem;}
+.aceroslaminasyperfiles{width:20rem;}
+
+
+
+
+.imagenproducto{width: 10rem;
+  padding-bottom: 25px;
+}
+
+.Productos{display: inline-block;
+width: 12rem;
+color:#39383B;
+text-align: center;
+font-size: 1rem;
+margin:20px}
+
+body{background-color: #ffde59;
+color:#ffffff;
+font-size: 1.5rem;
+font-family: 'Verdana',sans-serif;
+text-align: center;
+font-weight: 700;
+padding:0;
+margin:0;
+}
+
+.MIDDLE-CONTAINER{background-color: #ffde59;
+color:#ffffff;
+font-size: 1.5rem;
+font-family: 'Verdana',sans-serif;
+text-align: center;
+font-weight:600;}
+
+.CATEGORIA{display: inline-block;
+text-align: left;
+font-size: 1.5rem;}
+
+.TOP-CONTAINER{background-color: #39383B;
+margin-left: 0;
+padding: 180PX 50PX;
+text-align: CENTER;}
+
+.TF-IMAGEN{width: 70%;
+margin-top:150PX;
+margin-bottom: 150PX;}
+
+.piedepagina{background-color:#39383B}
+
+.BOTTOM-CONTAINER{background-color: #FFE57C;
+text-align: CENTER;}
+
+.LOGO-BOTTOM{WIDTH:50%;
+margin: auto;}
+
+
+.bottom-images{width:20rem;
+MARGIN:120PX 30PX;}
+
+.direccion{position:absolute;
+  bottom:15rem;
+  left:7.2rem;
+  font-family: 'Verdana',sans-serif;
+  color:#39383B;
+  text-decoration: none;
+  line-height: 10px;
+}
+
+.telefono{position:absolute;
+  bottom:19rem;
+  left:8.5rem;
+  font-family: 'Verdana',sans-serif;
+  color:#39383B;
+  text-decoration: none;
+  line-height: 10px;
+}
+
+.whatsapp{position:absolute;
+  bottom:13.5rem;
+  left:8.5rem;
+  font-family: 'Verdana',sans-serif;
+  color:#39383B;
+  text-decoration: none;
+  line-height: 10px;
+}
+
+.correo{position:absolute;
+  bottom:17rem;
+  left:8rem;
+  font-family: 'Verdana',sans-serif;
+  color:#39383B;
+  text-decoration: none;
+  line-height: 10px;
+}
+
+
+.sucursalbox{display:inline-block;
+position:relative;
+text-align:center;}
+
+
+.direccion:hover{
+color:#ffffff;}
+
+.telefono:hover{
+color:#ffffff;}
+
+.whatsapp:hover{
+color:#ffffff;}
+
+.correo:hover{
+color:#ffffff;}
